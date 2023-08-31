@@ -5,4 +5,4 @@
 - Guilherme Firpo | https://github.com/VailedFeline
 - Gustavo Souto | https://github.com/Gustav0Souto
 - Kayllane Justino | https://github.com/Kayllane-Justino
-- Philipe Monterrazo | 
+- Philipe Monterrazo | https://github.com/pmonterrazo
