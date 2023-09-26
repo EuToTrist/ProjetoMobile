@@ -13,14 +13,14 @@
 ## IDEAÇÃO DO PROJETO
 A ideia deste projeto é desenvolver uma farmácia móvel que ofereça serviços de saúde e acesso a medicamentos de forma conveniente e acessível para comunidades que enfrentam desafios de acesso à assistência médica. A farmácia móvel será uma iniciativa inovadora que combina tecnologia, atendimento médico, dispensação de medicamentos e educação em saúde para melhorar a qualidade de vida das pessoas em áreas remotas, de baixa renda ou com dificuldades de mobilidade.
 
-Objetivos:
+# Objetivos:
 
 Fornecer acesso a medicamentos essenciais, incluindo genéricos e de marca, a preços acessíveis.
 Oferecer consultas médicas básicas e serviços de triagem de saúde por profissionais de saúde qualificados.
 Educar as comunidades sobre hábitos de vida saudáveis, prevenção de doenças e uso correto de medicamentos.
 Melhorar a conscientização sobre saúde e promover a detecção precoce de doenças crônicas.
 
-Aplicativo Móvel e Plataforma Online:
+# Aplicativo Móvel e Plataforma Online:
 
 Um aplicativo móvel onde os usuários podem fazer pedidos de medicamentos, agendar consultas, receber informações de saúde e tirar dúvidas.
 Uma plataforma online para gerenciamento de estoque, registros médicos digitais e comunicação com a equipe de saúde.
@@ -40,7 +40,8 @@ Melhoria na qualidade de vida das comunidades atendidas.
 Redução do impacto econômico causado por doenças não tratadas.
 Aumento da conscientização sobre saúde e prevenção.
 
-##API
+## API
 
 -Infermedica: Verificador de sintomas baseado em PNL e API de triagem de pacientes para diagnóstico de saúde a partir de texto
+
 -Remédios (Criação da Equipe)
