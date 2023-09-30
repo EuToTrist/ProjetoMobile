@@ -22,7 +22,7 @@ Melhorar a conscientização sobre saúde e promover a detecção precoce de doe
 
 # Aplicativo Móvel e Plataforma Online
 
-Um aplicativo móvel onde os usuários podem fazer pedidos de medicamentos, agendar consultas, receber informações de saúde e tirar dúvidas.
+Um aplicativo móvel onde os usuários podem fazer pedidos de medicamentos, receber informações de saúde e tirar dúvidas.
 Uma plataforma online para gerenciamento de estoque, registros médicos digitais e comunicação com a equipe de saúde.
 Programa de Educação em Saúde:
 
