@@ -12,34 +12,34 @@
 <a href="https://www.figma.com/file/4nWHoMxHggXG2rH5KbWVgG/Untitled?type=design&node-id=0%3A1&mode=design&t=biVAOewfDeDwRBO6-1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
 
 ## IDEAÇÃO DO PROJETO
-A ideia deste projeto é desenvolver uma farmácia móvel que ofereça serviços de saúde e acesso a medicamentos de forma conveniente e acessível para comunidades que enfrentam desafios de acesso à assistência médica. A farmácia móvel será uma iniciativa inovadora que combina tecnologia, atendimento médico, dispensação de medicamentos e educação em saúde para melhorar a qualidade de vida das pessoas em áreas remotas, de baixa renda ou com dificuldades de mobilidade.
+A ideia deste projeto é desenvolver um aplicativo que forneça informações sobre doenças e formas de prenvenções, além de, revelar centros médicos próximo ao usuário. O APP será uma iniciativa inovadora que combina tecnologia, saúde, facilidade e educação em saúde para melhorar a qualidade de vida das pessoas no geral.
 
 # Objetivos
 
-Fornecer acesso a medicamentos essenciais, incluindo genéricos e de marca, a preços acessíveis.
-Oferecer consultas médicas básicas e serviços de triagem de saúde por profissionais de saúde qualificados.
+Fornecer melhor acessibilidade aos centros médicos, incluindo os centros de atendimento particulares e públicos.
+Oferecer horários, domínios e avaliações das clínicas médicas.
 Educar as comunidades sobre hábitos de vida saudáveis, prevenção de doenças e uso correto de medicamentos.
 Melhorar a conscientização sobre saúde e promover a detecção precoce de doenças crônicas.
 
 # Aplicativo Móvel e Plataforma Online
 
-Um aplicativo móvel onde os usuários podem fazer pedidos de medicamentos, receber informações de saúde e tirar dúvidas.
-Uma plataforma online para gerenciamento de estoque, registros médicos digitais e comunicação com a equipe de saúde.
+Um aplicativo móvel onde os usuários podem fazer pesquisa sobre doenças, receber informações de saúde e tirar dúvidas.
+Uma plataforma online para localizar sanatórios, registros médicos digitais e comunicação com a equipe de saúde.
 Programa de Educação em Saúde:
 
-Realização de palestras, workshops e campanhas de conscientização sobre saúde em comunidades atendidas pela farmácia móvel.
-Distribuição de material educativo impresso e digital sobre prevenção de doenças e hábitos saudáveis.
-Parcerias com Instituições de Saúde:
+Facilitar o acesso a cuidados de saúde ao direcionar os usuários para centros médicos próximos.
+Melhorar a conscientização sobre saúde ao fornecer informações educacionais confiáveis e de fácil acesso.
+Incentivar a prevenção e a detecção precoce de doenças por meio de recursos informativos.
 
-Colaboração com hospitais, clínicas e laboratórios locais para exames de diagnóstico e encaminhamento de casos mais complexos.
-Parcerias com ONGs e órgãos governamentais para acesso a recursos e financiamento.
-Benefícios Esperados:
+Localização de Centros Médicos: Utilização de geolocalização para ajudar os usuários a encontrar hospitais, clínicas, consultórios médicos e farmácias nas proximidades.
 
-Melhoria no acesso a medicamentos essenciais.
-Redução das barreiras de acesso à assistência médica.
-Melhoria na qualidade de vida das comunidades atendidas.
-Redução do impacto econômico causado por doenças não tratadas.
-Aumento da conscientização sobre saúde e prevenção.
+Artigos e Matérias: Fornecimento de artigos informativos, notícias e recursos sobre doenças, sintomas, tratamentos e medidas de prevenção.
+
+Pesquisa de Sintomas: Um recurso que permite aos usuários inserir sintomas e obter informações preliminares sobre possíveis condições médicas, incentivando a busca por ajuda profissional.
+
+Diretório de Profissionais de Saúde: Uma lista de médicos, especialistas e outros profissionais de saúde com informações sobre especializações e horários de atendimento.
+
+Lembretes de Saúde: Possibilidade de configurar lembretes para exames médicos regulares, vacinações e medicação.
 
 ## API
 
