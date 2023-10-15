@@ -9,7 +9,7 @@
 - Eduardo Kim | https://github.com/Kim3010
 
 ## Figma 
-<a href="https://www.figma.com/file/4nWHoMxHggXG2rH5KbWVgG/Untitled?type=design&node-id=0%3A1&mode=design&t=biVAOewfDeDwRBO6-1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
+<a href="https://www.figma.com/file/h7dHv9xzfv9WcFOjK7fZPo/Projeto?type=design&node-id=0%3A1&mode=design&t=MgPAzRVvttA66Z7j-1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
 
 ## IDEAÇÃO DO PROJETO
 A ideia deste projeto é desenvolver um aplicativo que forneça informações sobre doenças e formas de prenvenções, além de, revelar centros médicos próximo ao usuário. O APP será uma iniciativa inovadora que combina tecnologia, saúde, facilidade e educação em saúde para melhorar a qualidade de vida das pessoas no geral.
