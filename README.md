@@ -44,6 +44,6 @@ Lembretes de Saúde: Possibilidade de configurar lembretes para exames médicos 
 
 ## API
 
-- Infermedica: Verificador de sintomas baseado em PNL e API de triagem de pacientes para diagnóstico de saúde a partir de texto
+- Doenças e Categorias de infermidades
 
-- Remédios (Criação da Equipe)
+- Geolocalização de UPA's 
