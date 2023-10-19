@@ -7,6 +7,7 @@
 - Kayllane Justino | https://github.com/Kayllane-Justino
 - Philipe Monterrazo | https://github.com/pmonterrazo
 - Eduardo Kim | https://github.com/Kim3010
+- Walter Teles | https://github.com/RealTastes
 
 ## Figma 
 <a href="https://www.figma.com/file/h7dHv9xzfv9WcFOjK7fZPo/Projeto?type=design&node-id=0%3A1&mode=design&t=MgPAzRVvttA66Z7j-1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
