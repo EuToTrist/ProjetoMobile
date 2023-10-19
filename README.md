@@ -44,6 +44,6 @@ Lembretes de Saúde: Possibilidade de configurar lembretes para exames médicos 
 
 ## API
 
-- Doenças e Categorias de infermidades
+- Doenças e Categorias de Enfermidades
 
 - Geolocalização de UPA's 
