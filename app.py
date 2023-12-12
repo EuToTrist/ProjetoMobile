@@ -11,9 +11,9 @@ doenças = {
 from flask import Flask, jsonify  # Adicione jsonify aqui
 from flask_cors import CORS
 
-app = Flask(__name__)
+app = Flask(_name_)
 
-CORS(app, supports_credentials=True, resources={r"/*: {"origins": "*"}"})
+CORS(app, supports_credentials=True, resources={r"/": {"origins": ""}})
 
 @app.route('/')
 def hello_world():
@@ -23,5 +23,5 @@ def hello_world():
 def listar_doencas():
     return jsonify(doenças)  # Isso irá funcionar agora que você importou jsonify
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     app.run()
