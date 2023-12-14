@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ClinicEase</string>
+    <string name="app_name">ClincEase</string>
+    <string name="text_videos">Vídeos</string>
+    <string name="text_musicas">Músicas</string>
+    <string name="text_noticias">Notícias</string>
+    <string name="text_investimentos">Investimentos</string>
+    <string name="text_categorias">Categorias</string>
+
+    <string name="my_map_api_key">AIzaSyCSj00PuBvipR7P60m0y1sVsw3_ZcU0vz0</string>
+    <string name="text_salvos">Salvos</string>
 </resources>
