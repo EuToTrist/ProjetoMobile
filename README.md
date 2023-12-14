@@ -46,3 +46,5 @@ Lembretes de Saúde: Possibilidade de configurar lembretes para exames médicos 
 - Doenças e Categorias de Enfermidades
 
 - Geolocalização de UPA's 
+
+- https://clinicease-d5bq34i2.b4a.run/doencas
