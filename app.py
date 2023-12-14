@@ -47,8 +47,13 @@ doenças = {
     },
     'meningite': {
         'sintomas': ['dor de cabeca severa', 'febre alta', 'rigidez no pescoco', 'sensibilidade a luz']
+    },
+    'prurido': {
+        'sintomas': ['perda ponderal', 'sudorese noturna', 'fraqueza extrema', 'perda da sensibilidade']
     }
 }
+
+
 
 from flask import Flask, jsonify  # Adicione jsonify aqui
 from flask_cors import CORS
