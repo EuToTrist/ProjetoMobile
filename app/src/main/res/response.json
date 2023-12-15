@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Gripe",
+    "sintomas": [
+      "Febre",
+      "Tosse",
+      "Dor de cabeça",
+      "Fadiga"
+    ]
+  },
+  {
+    "name": "Varicela",
+    "sintomas": [
+      "Erupções cutâneas",
+      "Coceira",
+      "Febre",
+      "Fadiga"
+    ]
+  },
+  {
+    "name": "Dengue",
+    "sintomas": [
+      "Febre alta",
+      "Dor de cabeça",
+      "Dor atrás dos olhos",
+      "Manchas vermelhas na pele"
+    ]
+  },
+  {
+    "name": "Diabetes Tipo 2",
+    "sintomas": [
+      "Sede excessiva",
+      "Fome frequente",
+      "Perda de peso inexplicada",
+      "Fadiga"
+    ]
+  },
+  {
+    "name": "Hipertensão",
+    "sintomas": [
+      "Dores de cabeça",
+      "Falta de ar",
+      "Tonturas",
+      "Dor no peito"
+    ]
+  },
+  {
+    "name": "Asma",
+    "sintomas": [
+      "Falta de ar",
+      "Tosse",
+      "Chiado no peito",
+      "Aperto no peito"
+    ]
+  },
+  {
+    "name": "Anemia",
+    "sintomas": [
+      "Fadiga",
+      "Palidez",
+      "Falta de ar",
+      "Tonturas"
+    ]
+  },
+  {
+    "name": "Gastroenterite",
+    "sintomas": [
+      "Diarreia",
+      "Vômito",
+      "Dor abdominal",
+      "Desidratação"
+    ]
+  },
+  {
+    "name": "Osteoporose",
+    "sintomas": [
+      "Fraturas frequentes",
+      "Perda de altura ao longo do tempo",
+      "Dor nas costas"
+    ]
+  },
+  {
+    "name": "Artrite Reumatoide",
+    "sintomas": [
+      "Dor nas articulações",
+      "Inchaço nas articulações",
+      "Rigidez matinal",
+      "Fadiga"
+    ]
+  },
+  {
+    "name": "Meningite",
+    "sintomas": [
+      "Dor de cabeça severa",
+      "Febre",
+      "Rigidez no pescoço",
+      "Náusea"
+    ]
+  },
+  {
+    "name": "Tuberculose",
+    "sintomas": [
+      "Tosse persistente",
+      "Dor no peito",
+      "Perda de peso",
+      "Sudorese noturna"
+    ]
+  },
+  {
+    "name": "Hepatite",
+    "sintomas": [
+      "Icterícia",
+      "Fadiga",
+      "Dor abdominal",
+      "Perda de apetite"
+    ]
+  },
+  {
+    "name": "Malária",
+    "sintomas": [
+      "Febre",
+      "Calafrios",
+      "Sudorese",
+      "Dores musculares"
+    ]
+  },
+  {
+    "name": "Esclerose Múltipla",
+    "sintomas": [
+      "Fadiga",
+      "Dificuldade de movimento",
+      "Espasmos musculares",
+      "Problemas de visão"
+    ]
+  },
+  {
+    "name": "Doença de Parkinson",
+    "sintomas": [
+      "Tremores",
+      "Rigidez muscular",
+      "Movimentos lentos",
+      "Desequilíbrio"
+    ]
+  },
+  {
+    "name": "Alzheimer",
+    "sintomas": [
+      "Perda de memória",
+      "Confusão",
+      "Dificuldade com tarefas familiares",
+      "Mudanças de humor"
+    ]
+  },
+  {
+    "name": "Miopia",
+    "sintomas": [
+      "Visão embaçada à distância",
+      "Necessidade de apertar os olhos",
+      "Dores de cabeça",
+      "Fadiga ocular"
+    ]
+  },
+  {
+    "name": "Gastrite",
+    "sintomas": [
+      "Dor abdominal",
+      "Náusea",
+      "Vômito",
+      "Inchaço"
+    ]
+  },
+  {
+    "name": "Bronquite",
+    "sintomas": [
+      "Tosse com muco",
+      "Falta de ar",
+      "Fadiga",
+      "Chiado no peito"
+    ]
+  }
+]
