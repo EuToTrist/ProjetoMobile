@@ -4,7 +4,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-doenças = {
+doencas = {
     'gripe': {
         'sintomas': ['febre', 'tosse', 'dor de cabeca']
     },
