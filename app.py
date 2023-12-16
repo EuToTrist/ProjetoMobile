@@ -1,10 +1,4 @@
-from flask import Flask, jsonify
-from flask_cors import CORS
-
-app = Flask(__name__)
-CORS(app)
-
-doencas = {
+doenças = {
     'gripe': {
         'sintomas': ['febre', 'tosse', 'dor de cabeca']
     },
@@ -61,21 +55,20 @@ doencas = {
 
 
 
+from flask import Flask, jsonify  # Adicione jsonify aqui
+from flask_cors import CORS
+
+app = Flask(__name__)
+
+CORS(app, supports_credentials=True, resources={r"/": {"origins": ""}})
+
 @app.route('/')
-def home():
-    return 'Bem-vindo à API de Doenças!'
+def hello_world():
+    return 'Hello, World!'
 
-@app.route('/doencas', methods=['GET'])
+@app.route('/doencas')
 def listar_doencas():
-    return jsonify(doencas)
+    return jsonify(doenças)  # Isso irá funcionar agora que você importou jsonify
 
-@app.route('/doencas/<nome_doenca>', methods=['GET'])
-def obter_doenca(nome_doenca):
-    doenca = doencas.get(nome_doenca.lower())
-    if doenca:
-        return jsonify(doenca)
-    else:
-        return jsonify({"mensagem": "Doença não encontrada"}), 404
-
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == '_main_':
+    app.run()
