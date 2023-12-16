@@ -5,7 +5,14 @@
     <string name="text_noticias">Notícias</string>
     <string name="text_investimentos">Investimentos</string>
     <string name="text_categorias">Categorias</string>
-
     <string name="my_map_api_key">AIzaSyCSj00PuBvipR7P60m0y1sVsw3_ZcU0vz0</string>
     <string name="text_salvos">Salvos</string>
+    <string name="go_to_web">Go to Web</string>
+    <string name="created_by">Repositório criado por: %s</string>
+    <string name="title">Título: %s</string>
+    <string name="description">Descrição: %s</string>
+    <string name="welcome_message">Bem vindos a listagem de Doenças</string>
+    <string name="error_message">Aconteceu um erro por aqui, tente novamente!</string>
+    <string name="empty_message">Ops, parece que a lista está vazia!</string>
+    <string name="load_doenca">Carregar Doenças</string>
 </resources>
