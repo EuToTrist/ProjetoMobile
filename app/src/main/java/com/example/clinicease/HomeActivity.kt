@@ -42,7 +42,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     private fun teladoenca() {
-        var terceiraTela = Intent(this,DoencaActivity::class.java)
+        var terceiraTela = Intent(this,MainActivity::class.java)
         startActivity(terceiraTela)
     }
 
