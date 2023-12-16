@@ -38,15 +38,25 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: dada"
+                    android:text="Doença: Anemia"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
+                    android:layout_marginTop="5dp"
 
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: fadiga, palidez, falta de ar, tontura."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="20dp"
+
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
@@ -71,15 +81,23 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: dade"
+                    android:text="Doença: Artrite"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: dor nas articulacoes,inchaço,vermelhidao,diminuicao da amplitude de movimento."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="19dp"
 
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
@@ -104,16 +122,24 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: Gda"
+                    android:text="Doença: Chikungunya"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
 
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: Febre, dor nas articulações, edema, rash cutâneo."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="19dp"
 
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
@@ -138,14 +164,23 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: dadaa"
+                    android:text="Doença: Catapora"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: manchas vermelhas, coceira, febre."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="19dp"
+
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
@@ -170,15 +205,23 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: ddddd"
+                    android:text="Doença: Asma"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: dificuldade de respirar, tosse, chiado, pressão no peito."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="19dp"
 
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
@@ -207,15 +250,23 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doença: Gdadae"
+                    android:text="Doença: Bronquite"
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="20dp"
-                    android:layout_marginTop="-35dp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sintomas: tosse, produção de muco, cansaço, chiado no peito."
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="19dp"
 
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
 
             </LinearLayout>
 
