@@ -5,6 +5,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+
+
 class CardAdapter(private val dataList: List<String>) : RecyclerView.Adapter<CardAdapter.CardViewHolder>() {
     inner class CardViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val textView: TextView = itemView.findViewById(R.id.text_view_nome_doenca)
