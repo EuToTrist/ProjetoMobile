@@ -33,13 +33,19 @@ class HomeActivity : AppCompatActivity() {
         }
 
         botaoWeb2.setOnClickListener {
-
+            teladoenca()
         }
         botaoWeb3.setOnClickListener {
 
         }
 
     }
+
+    private fun teladoenca() {
+        var terceiraTela = Intent(this,DoencaActivity::class.java)
+        startActivity(terceiraTela)
+    }
+
     private fun Telamapa(){
 
         var segundaTela = Intent(this,MapsActivity::class.java)
