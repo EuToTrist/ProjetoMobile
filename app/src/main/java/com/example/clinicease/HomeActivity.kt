@@ -36,9 +36,14 @@ class HomeActivity : AppCompatActivity() {
             teladoenca()
         }
         botaoWeb3.setOnClickListener {
-
+            telafav()
         }
 
+    }
+
+    private fun telafav() {
+        var quaTela = Intent(this,DoencaActivity::class.java)
+        startActivity(quaTela)
     }
 
     private fun teladoenca() {
