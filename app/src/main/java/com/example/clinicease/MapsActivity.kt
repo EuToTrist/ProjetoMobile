@@ -54,12 +54,31 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     override fun onMapReady(googleMap: GoogleMap) {
         myMap = googleMap
 
-        val sydney = LatLng(currentLocation.latitude, currentLocation.longitude)
-        myMap.moveCamera(CameraUpdateFactory.newLatLng(sydney))
+        val atual = LatLng(currentLocation.latitude, currentLocation.longitude)
+        myMap.moveCamera(CameraUpdateFactory.newLatLng(atual))
+        googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(atual, 12f))
 
-        val markerOptions = MarkerOptions().position(sydney).title("My Location")
-        markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN))
-        myMap.addMarker(markerOptions)
+        val markeratual = MarkerOptions().position(atual).title("Minha Localização")
+        markeratual.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE))
+        myMap.addMarker(markeratual)
+
+        val hrestauracao = LatLng(-8.05378, -34.86425)
+
+        val markerhrestauracao = MarkerOptions().position(hrestauracao).title("Hospital da Restauração Gov. Paulo Guerra")
+        markerhrestauracao.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
+        myMap.addMarker(markerhrestauracao)
+
+        val hportuguesbv = LatLng(-8.111246255991684, -34.89206098653116)
+
+        val markerhportuguesbv = MarkerOptions().position(hportuguesbv).title("Real Hospital Português de Boa Viagem")
+        markerhportuguesbv.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
+        myMap.addMarker(markerhportuguesbv)
+
+        val upamesc = LatLng(-8.12079457935857, -34.91387603406976)
+
+        val markerupamesc = MarkerOptions().position(hportuguesbv).title("Unidade de Pronto Atendimento Maria Esther Souto Carvalho")
+        markerupamesc.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
+        myMap.addMarker(markerupamesc)
     }
 
     override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<String>, grantResults: IntArray) {
@@ -68,7 +87,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
             if (grantResults.isNotEmpty() && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                 getLastLocation()
             } else {
-                Toast.makeText(this, "A permissão de localização foi negada. Permita a permissão", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "A permissão de localização foi negada. Permita-a para prosseguir", Toast.LENGTH_SHORT).show()
             }
         }
     }
