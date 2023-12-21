@@ -36,13 +36,18 @@ class HomeActivity : AppCompatActivity() {
             teladoenca()
         }
         botaoWeb3.setOnClickListener {
-
+            telafav()
         }
 
     }
 
+    private fun telafav() {
+        var quaTela = Intent(this,DoencaActivity::class.java)
+        startActivity(quaTela)
+    }
+
     private fun teladoenca() {
-        var terceiraTela = Intent(this,DoencaActivity::class.java)
+        var terceiraTela = Intent(this,MainActivity::class.java)
         startActivity(terceiraTela)
     }
 

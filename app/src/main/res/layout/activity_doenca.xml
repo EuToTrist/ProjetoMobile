@@ -16,7 +16,9 @@
         android:columnCount="1"
         android:layout_marginLeft="4dp"
         android:layout_marginRight="5dp"
-        android:layout_marginTop="16dp">
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="30dp">
+
 
         <androidx.cardview.widget.CardView
             android:layout_width="150dp"
@@ -91,7 +93,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Sintomas: dor nas articulacoes,inchaço,vermelhidao,diminuicao da amplitude de movimento."
+                    android:text="Sintomas: dor nas articulacoes,inchaço,vermelhidao..."
                     android:layout_gravity="left"
                     android:layout_marginLeft="15dp"
                     android:textSize="19dp"
