@@ -56,13 +56,13 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         val atual = LatLng(currentLocation.latitude, currentLocation.longitude)
         myMap.moveCamera(CameraUpdateFactory.newLatLng(atual))
-        googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(atual, 12f))
+        googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(atual, 15f))
 
         val markeratual = MarkerOptions().position(atual).title("Minha Localização")
         markeratual.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE))
         myMap.addMarker(markeratual)
 
-        val hrestauracao = LatLng(-8.053222090479172, -34.89771577774062)
+        val hrestauracao = LatLng(-8.052803779772542, -34.897589196302086)
 
         val markerhrestauracao = MarkerOptions().position(hrestauracao).title("Hospital da Restauração Gov. Paulo Guerra")
         markerhrestauracao.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
