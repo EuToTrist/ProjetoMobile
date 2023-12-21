@@ -62,7 +62,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         markeratual.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE))
         myMap.addMarker(markeratual)
 
-        val hrestauracao = LatLng(-8.05378, -34.86425)
+        val hrestauracao = LatLng(-8.053222090479172, -34.89771577774062)
 
         val markerhrestauracao = MarkerOptions().position(hrestauracao).title("Hospital da Restauração Gov. Paulo Guerra")
         markerhrestauracao.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
@@ -76,7 +76,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         val upamesc = LatLng(-8.12079457935857, -34.91387603406976)
 
-        val markerupamesc = MarkerOptions().position(hportuguesbv).title("Unidade de Pronto Atendimento Maria Esther Souto Carvalho")
+        val markerupamesc = MarkerOptions().position(upamesc).title("Unidade de Pronto Atendimento Maria Esther Souto Carvalho")
         markerupamesc.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
         myMap.addMarker(markerupamesc)
     }
